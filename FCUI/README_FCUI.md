@@ -1,5 +1,4 @@
 # FCUI
-Pool of bridge fragility curves
 The FCUI short for Fragility Curve User Interface is written to facilitate the access to the dataset of already developed fragility parameters for different bridge classes in US. This way, the uncertainties corresponds to different fragility parameters, for a given bridge classification, can be addressed and utilized in estimating the level of damage for bridges in a community. 
 
 -**Outputs**:
